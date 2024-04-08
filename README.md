@@ -1,8 +1,15 @@
-# React + Vite
+## Frontend - Consulta de Notas Fiscais
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém uma aplicação frontend desenvolvida para consultar notas fiscais. A aplicação se comunica com o backend para possibilitar consultas de notas fiscais armazenadas e exibi-las em uma interface simples.
 
-Currently, two official plugins are available:
+## Configuração do Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone este repositório.
+2. Instale as dependências usando `npm install`.
+4. Inicie o servidor de desenvolvimento com `npm run dev`.
+
+## Tecnologias Utilizadas
+
+- React
+- Axios
+
